@@ -1,0 +1,6 @@
+Tags/Elements:
+a.Block Level Elements
+--->All Block Level Elements/tags are always start with new line
+---> Occupy Complete Width
+--->Takes Top margin and bottom margin
+b.Inline Elements

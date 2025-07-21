@@ -1,0 +1,17 @@
+function----> inner function.--->lambda expression/function---->decorator---->generator
+IF-->return inner function reference
+LE-->map(),filter(),"reduce()" we import the 'reduce'
+
+
+
+
+
+1.What is inner fnx and outer fnx..?
+        define a function inside a function.
+2.how to invoke inner fnx from outer fnx..?
+        using return value.
+3.what if we take multiple values in return..?
+        In python it takes the total values in tuple format,, in other language like javascript it takes only last values
+4.how to execute lambbda expression..?
+      varaiale=lambda arg_list:expression
+      add=lambda a,b:a+b  --> we are printing the value without using "def add(a,b): return a+b"

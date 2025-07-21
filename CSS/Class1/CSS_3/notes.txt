@@ -1,0 +1,3 @@
+CSS has 2 rules:
+    1. Top to bottom. Nearest style has Highest Priority.
+    2. Selector

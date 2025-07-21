@@ -1,0 +1,15 @@
+<input type="text"  Validation attriutes />
+
+required
+readonly
+diabled
+min ----Number type data
+mix ----Number type data
+name ---JS
+id  ----JS
+placeholder --- providing info to user
+value  ---- default value
+minlength --text
+maxlength --text
+tabindex
+pattern

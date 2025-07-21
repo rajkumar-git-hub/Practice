@@ -1,0 +1,20 @@
+we can use style in html itself. 
+But, we are losing style reuseability, readability, modularity , global change, page load faster.
+so, we use .css file and we link it to html
+<link href="/styles.css' ref="stylesheet">
+
+CSS: Cascading Style Sheets.
+cascading - Bringing / Rendering
+
+HOW MANY WAYS WE CAN APPLY CSS...?
+|____3 Ways
+1.Inline CSS:
+    Using style attribute , No reuseability
+
+2.Internal / Embeded:
+    Using style Tag/Element. Resuseability is Applicable. But , only for Page Level
+
+3.External CSS:
+    Using <link> Tag. Reuse it for Application Level
+
+
