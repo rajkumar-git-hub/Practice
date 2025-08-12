@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <link rel="stylesheet" href="./rg.css">
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+        <a href="#" class="navbar-brand" >Logo</a>
+        <div class="ml-auto">
+            <ul class="navbar-nav">
+                <li><a href="./index.html" class="nav-link" > Home</a></li>
+                <li><a href="./about.html" class="nav-link" > About</a></li>
+                <li><a href="./services.html" class="nav-link" > Services</a></li>
+                <li><a href="./employees.html" class="nav-link" > Employees</a></li>
+                <li><a href="./products.html" class="nav-link" > Products</a></li>
+                <li><a href="./contact.html" class="nav-link" > Contact US</a></li>
+                <li><a href="./login.html" class="nav-link" > Login</a></li>
+
+            </ul>
+        </div>
+    </nav>
+
+    <h1>Contact Us</h1>
+    <hr>
+
+    <div class="container">
+        <div class="row">
+            <!-- Email part takes half of the screen so we use col-6 out of col-12  -->
+
+            <div class="col-6">
+                <h3>Send us an Email:</h3>
+                <form>
+                    <div class="form-group">
+
+                        <!-- First Row has Three Columns -->
+
+                        <div class="row">
+
+                            <div class="col-4">
+                                <label>Name:</label>
+                                <input type="text" class="form-control"/>
+                            </div>
+
+                            <div class="col-4">
+                                <label>Email:</label>
+                                <input type="email" class="form-control"/>
+                            </div>
+
+                            <div class="col-4">
+                                <label>Phone:</label>
+                                <input type="number"class="form-control" />
+                            </div>
+
+                        </div>
+
+                        <!-- Second row -->
+
+                        <div class="row">
+
+                            <div class="col-8">
+                                <label>Subject:</label>
+                                <input type="text" class="form-control"/>
+                            </div>
+
+                            <div class="col-4">
+                                <label>Services:</label>
+                                <select class="form-control">
+                                    <option >--Select One--</option>
+                                    <option >IT</option>
+                                    <option >HR</option>
+                                    <option >TL</option>
+                                    <option >MT</option>
+                                </select>
+                            </div>
+
+                        </div>
+
+                        <!-- Last Row has one col So we dont use <div class="row"></div> to place this -->
+                        <div class="form-group">
+                            <label>Message:</label>
+                            <textarea rows="4" cols="10" class="form-control" ></textarea>
+                        </div>
+
+                        <div class="text-center" >
+                            <input type="submit" class="btn btn-primary" value="SUBMIT" />
+                        </div>
+
+                    </div>
+                </form>
+
+            </div>
+
+            <!-- Map part takes half of the screen so we use col-6 out of col-12  -->
+
+            <div class="col-6">
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3877.4960777951683!2d79.39420487421599!3d13.627560400159632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4d4b3cad0b13e3%3A0xb9635a2a9d920c7d!2sSRI%20VENKATESWARA%20UNIVERSITY!5e0!3m2!1sen!2sin!4v1753940351885!5m2!1sen!2sin" 
+                width="100%" 
+                height="100%" 
+                style="border:0;" 
+                allowfullscreen="" 
+                loading="lazy" 
+                referrerpolicy="no-referrer-when-downgrade" >
+                    
+                </iframe>
+
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>

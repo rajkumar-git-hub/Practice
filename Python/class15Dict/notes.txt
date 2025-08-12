@@ -1,0 +1,23 @@
+Dict: {key:values}
+    Group of key values as one entity.
+    Indexing concept is not Applicable.
+    Dict is a mutable object.
+
+
+
+
+Dict Methods:
+
+    Method::::::::::::::Purpose
+
+    keys()	            Get all keys
+    values()	        Get all values
+    items()	            Get all key-value pairs
+    get()	            Safe way to access values
+    update()	        Add/update key-value pairs
+    pop()	            Remove by key
+    popitem()	        Remove last item
+    clear()	            Remove everything
+    copy()	            Copy dictionary
+    fromkeys()	        Create dict from keys and same value
+

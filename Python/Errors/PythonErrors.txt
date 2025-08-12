@@ -1,0 +1,11 @@
+Syntax Error
+Indentation Error
+Type Error
+Index Error
+Name Error
+Value Error
+Key Error
+Attribute Error
+Zero Division Error
+File Not Found Error
+File Exist Error

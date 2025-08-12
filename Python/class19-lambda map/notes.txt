@@ -1,0 +1,10 @@
+map(): map(function,sequence)
+
+        -->[]   list
+        -->()   Tuple
+        -->{10} Set
+        -->str
+        -->range
+        -->bytes
+        -->ba
+        -->fz

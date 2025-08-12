@@ -1,0 +1,12 @@
+Step 1: Collect images
+        pixels.com     1400 x 600
+
+Step 2: write carousel bootstrap code
+Step 3: Add carousel dependicies
+        a) bootstrap.css -------|
+        b) popper.js            |---->CDN links
+        c) jqcm.js              |
+        d) bootstrap.js --------|
+
+Step 4: define slider interval 
+        jquery code snippet [1 line]

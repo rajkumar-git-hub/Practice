@@ -1,0 +1,6 @@
+Json:Java Script onject Notation
+    1.loads:   load- single file
+    2.dumps:   dump- single file
+
+Json data follows the java script.
+We can convert json data to python data and viceversa.

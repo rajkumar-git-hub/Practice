@@ -1,6 +1,6 @@
 Python-List:
 1. Group of elements as one entity
 2. Allowed duplicates And Heterogenious elements
-3. List valuesa/elements are storing based indexing
+3. List values/elements are storing based indexing
 4. Insertion order maintain
 5. It is a iterable object-->using for,while loops

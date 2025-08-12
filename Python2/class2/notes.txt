@@ -1,0 +1,35 @@
+DATA TYPES IN PYTHON: In python actually there is no data types . but, based on provided type in declares the data type
+                      In python everything is object so we got output as <class 'datatype'>
+                      because, actually those are all classes.
+int
+float
+str
+complex
+bool
+
+list
+tuple
+set
+dict
+
+bytes
+bytearray
+frozenset
+range
+NoneType
+
+function
+
+
+
+in-built function:
+    print()
+    type()
+    input()
+    id()  -return the address of the object
+
+type Casting functions:
+    int()
+    bin()
+    hex()
+    oct()

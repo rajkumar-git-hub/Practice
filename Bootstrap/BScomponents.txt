@@ -1,0 +1,30 @@
+alert
+
+Button: .btn{}
+        .btn-cc{}
+
+Card  : .card{}
+        .card_header{}
+        .card_body{}
+
+Carousal
+List
+Model
+PB
+Pageinction
+
+Form  : .form_group{}
+        .form_control{}
+
+Table : .table{}
+
+Navbar
+Toast
+Spine
+
+grid :  .row{}
+        .col-size{}
+        .container{}
+
+
+
